@@ -1,0 +1,8 @@
+openai
+flask
+flask_cors
+requests
+numpy
+pandas
+tqdm
+tiktoken
